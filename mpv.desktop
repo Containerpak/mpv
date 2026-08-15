@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=mpv
+Comment=Play video and audio files with a scriptable media player.
+Exec=mpv %U
+Icon=mpv
+Terminal=false
+Categories=AudioVideo;Player;
+
