@@ -4,7 +4,7 @@
   "name": "mpv",
   "description": "Play video and audio files with a scriptable media player.",
   "version": "0.41.0",
-  "image": "ghcr.io/containerpak/mpv@sha256:a2812832ecacfd767cf063447ee3c4aab1efd26294ea213934b6b25f1eae87f9",
+  "image": "ghcr.io/containerpak/mpv@sha256:f0f1fb9ccfc4f5c11f0ec9cde1f708ad73ed178a11341fde64c4435c9b9b7a89",
   "binaries": [
     "/usr/bin/mpv"
   ],
